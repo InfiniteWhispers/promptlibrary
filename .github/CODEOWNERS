@@ -1,0 +1,10 @@
+# This is a CODEOWNERS file for protecting specific files and directories
+# The user bsc7080gbc will be the code owner for the specified files
+
+# Protect root files
+/README.md @bsc7080gbc
+/LICENSE @bsc7080gbc
+/CONTRIBUTING.md @bsc7080gbc
+
+# Protect all files in the .github directory
+/.github/ @bsc7080gbc

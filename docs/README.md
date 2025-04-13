@@ -1,0 +1,1 @@
+This folder will contain useful documents that we have either curated or discovered along the way.
