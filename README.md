@@ -49,7 +49,6 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 ---
 
 *Where language becomes leverage — welcome to the PromptLibrary.*
-```
 
----
+
 
