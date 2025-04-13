@@ -22,6 +22,8 @@ When you use `weekinreview`, it automatically creates a structured summary each 
   - Anything halted due to a problem, question, or dependency.
 - `#Ideas`
   - Brainstorms, potential improvements, or inspiration worth remembering.
+- `#Coffeechat`
+  - General discussion not associated to tasks
 
 ### Other Key Features:
 
@@ -78,9 +80,9 @@ This configures ChatGPT with the weekly tracking extraction logic so it knows ho
 
 ---
 
-Step 3: Upload the README.md as a Project File
+Step 3: Upload this README.md as a Project File
 
-1. Upload your README.md file into the project.
+1. Download this README.md then upload this README.md file into the project.
 
 
 2. This provides persistent reference material for the AI to:
@@ -95,32 +97,69 @@ Offer usage help when prompted
 
 Step 4: Introduce Yourself to the System
 
-Say something like:
+1. Setup technical support channel. Say something like:
 
-I’m new to this system. Can you describe your purpose and give me a quick walkthrough?
+```text
+Technical Support
+```
+ <send it>
+
+then type:
+
+```text
+I’m new to this system. This is my technical support channel. Can you describe your purpose and give me a quick walkthrough?
+```
 
 ChatGPT will use the system instructions + README file to generate a personalized explanation and usage guide.
 
+
+2. Setup Work Thread. Go back to root of project. Say something like:
+
+```text
+Work Thread
+```
+ <send it>
+
+then type:
+
+```text
+This is where I will spend most my time, and conversations.
+```
+
+3. Setup confidential thread. Return to root of Project. Say something like:
+
+```text
+Confidential Thread
+```
+<send it>
+
+then type:
+
+```text
+This is my confidential thread. Everything here is to be automatically tagged with #confidential from this point forward
+```
 
 ---
 
 Step 5: Begin Capturing Activities (Optional Pre-Run)
 
+Return to our Work Thread
+
 Even before your first Sunday review, try a mid-week check-in:
 
+```text
 Let’s do a quick log of what I’ve worked on so far this week…
+```
 
 Use tags like:
 
-#Completed, #InProgress, #Blocked, #Ideas
+#Completed, #InProgress, #Blocked, #Ideas, #Coffeechat 
 
 Custom tags like #motorcycle, #afterlife, #ai-prompting
 
 #confidential to exclude anything from tracking
 
-
 This builds the conversational memory the review system will later extract from.
-
 
 ---
 
@@ -136,6 +175,8 @@ Be intentional with tagging:
 
 #Ideas — Seeds of future work, brainstorms, or unstructured inspiration
 
+#Coffeechat — Just general discussion 
+
 #confidential — Prevents inclusion in summaries or indexing
 
 Custom tags (e.g., #morse, #infra, #afterlife) — Used for filtering and cross-reference
@@ -148,13 +189,13 @@ This enables accurate categorization later.
 
 Step 7: Generate a Week In Review on Sunday
 
-Every Sunday, open a new chat within the project titled:
-
 Week In Review: [Sunday] – [Saturday]
 
-Then say:
+Go to Work Thread. Then say:
 
+```text
 Generate my Week In Review for this past week.
+```
 
 ChatGPT will:
 
@@ -164,24 +205,19 @@ Ignore excluded/private material
 
 Output a clean, structured Markdown summary
 
-
-
 ---
 
 Step 8: Create and Maintain the @index
 
 The @index is your running, high-level dashboard of past weekly reviews. Here’s how to set it up:
 
-A. Create a New Chat in the Same Project
+Go to your Work Thread. Then say:
 
-Title it: @index
+```text
+Generate @index in memory for this past week
+```
 
-This is your permanent weekly review directory
-
-
-B. In This Chat, Maintain a Markdown Table or List
-
-Each week, after generating a new review, add an entry like:
+@index will will contain this for each week in review:
 
 ## Week In Review Index
 
@@ -189,7 +225,7 @@ Each week, after generating a new review, add an entry like:
 - **Completed:** Finalized Morse encoder, closed out OCR project
 - **InProgress:** Reflective journaling framework, prompt TUI
 - **Ideas:** Narrative game remix of “afterlife”, educational steganography tool
-- [Full Review →](chat link if available)
+- **Coffechat:** General conversation topics
 
 This becomes your living log, enabling:
 
@@ -202,10 +238,7 @@ Return-to-form for paused efforts
 
 > Tip: You can ask ChatGPT to help maintain this index weekly with:
 
-
-
-Update the @index with a summary of this week’s review.
-
+Update the @index in memory with a summary of this week’s review.
 
 ---
 
@@ -213,7 +246,9 @@ Step 9: Trigger and Respond to Status Checks
 
 During the week, use natural language to set follow-ups:
 
+```text
 Remind me Monday to check if I ordered the battery for the GSX750F.
+```
 
 On the specified day, ChatGPT will:
 
@@ -223,17 +258,11 @@ If complete, log it as #Completed
 
 If not, offer next steps or reschedule
 
-
-
 ---
 
 Summary of Key Components
 
-
 ---
-
-Let me know if you’d like this output as a downloadable file, slide deck, or preformatted GitHub setup.
-
 
 
 ### Use Cases
@@ -260,7 +289,7 @@ The `weekinreview` system automatically runs each Sunday. You can enhance it by 
 
 Add tags like:
 
-- `#Completed`, `#InProgress`, `#Blocked`, `#Ideas`
+- `#Completed`, `#InProgress`, `#Blocked`, `#Ideas`, `#Coffeechat` 
 - `#confidential` (to exclude)
 - `#motorcycle`, `#afterlife`, `#ai-prompting` (custom project tags)
 
@@ -268,6 +297,7 @@ Add tags like:
 
 ```text
 Remind me Monday to check if I ordered a battery for the GSX750F.
+```
 
 ChatGPT will then follow up and can take action depending on your answer.
 
@@ -275,14 +305,14 @@ Output
 
 Here’s an example of abridged weekly output:
 
-# Week In Review: Apr 6 – Apr 12, 2025
+# Week In Review: Apr 6 – Apr 12, 2024
 
 ## #Completed
 - Finalized multi-layer Morse audio encoder system.
-- Closed out Matthew Scott's OCR + AI idea log project.
+- Closed out OCR + AI idea log project.
 
 ## #InProgress
-- Continuing “Afterlife” reflection framework for post-marriage clarity.
+- Continuing “Afterlife” reflection framework for clarity.
 - Reviewing TUI for prompt management in Python using curses.
 
 ## #Blocked
@@ -292,6 +322,9 @@ Here’s an example of abridged weekly output:
 ## #Ideas
 - Remix `afterlife` themes into a narrative game format.
 - Reuse Morse encoder system as a teaching tool for steganography.
+
+## #Coffeechat
+- Discussed retirement in Puerto Rico vs Arkansas vs Kentucky 
 
 Meta
 
