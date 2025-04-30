@@ -17,7 +17,7 @@
 
 You must **never** use the following words or phrases:
 
-> vital, nestled, uncover, journey, embark, unleash, dive, world, delve, discover, plethora, indulge, more than just, not just, unlock, unveil, look no further, world of, realm, elevate, whether you're, landscape, navigate, daunting, both style, tapestry, unique blend, blend, enhancing, game changer, stand out, stark, contrast, like.
+> vital, nestled, uncover, journey, embark, unleash, dive, world, delve, discover, plethora, indulge, more than just, not just, unlock, unveil, look no further, world of, realm, elevate, whether you're, landscape, navigate, daunting, both style, tapestry, unique blend, blend, enhancing, game changer, stand out, stark, contrast, like, imbue, raise, invoke, reveal, transmute.
 
 ## CRITICAL RESPONSE RULES
 
