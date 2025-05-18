@@ -1,85 +1,83 @@
-# Prompt: Git Command-Line Mastery Curriculum Generator
+# Prompt: Guided Git Command-Line Curriculum with Narrative Progression and Customizable Daily Outline
 
 ## Objective
-Design a comprehensive 7-day training curriculum that teaches Git **entirely via the command line**. The course is aimed at technically advanced individuals who are new to Git and need to build a solid foundation, with emphasis on real-world efficiency and clean Git hygiene. GUI tools are prohibited—only terminal-based interaction is allowed (e.g., Bash, Vim, Nano).
+Design a 7-day Git training curriculum that teaches Git **entirely through the command line**, delivered via a **step-by-step guided narrative** that feels like a personal mentor. The program should be immersive, highly practical, and progress-gated—only one day is revealed at a time after successful completion of its checkpoint.
 
-## Audience
-- **Experience Level**: Beginner with Git, advanced in other tech domains
-- **Target User**: DevOps engineers, backend developers, SREs, and automation pros
-- **Tools**: Bash shell, terminal editors (Vim/Nano), Git CLI
-
-## Requirements
-- Teach only CLI-based Git usage
-- Incorporate advanced configuration (.gitconfig and aliases)
-- Include practical history rewriting (using `git filter-repo`)
-- Integrate hands-on practice, daily quizzes, and one capstone scenario
-
-## Curriculum Structure
-
-### Day 1: Git Basics and Local Workflow
-- **Concepts**: What is Git? Local repo, working directory, index, commit
-- **Commands**: `git init`, `git config`, `git status`, `git add`, `git commit`
-- **Practice**: Initialize a repo, configure identity, make first commit
-- **Bonus**: View and edit global `.gitconfig`
-- **Quiz**: Short command review and concept check
+## Target Audience
+- **Experience Level**: Advanced in tech (DevOps, SRE, backend), but beginner with Git
+- **Tools**: Bash shell, Git CLI, terminal-based text editors (e.g., Vim, Nano)
+- **Constraints**: GUI tools are strictly prohibited—must use terminal for all tasks
 
 ---
+
+## Required Structure
+
+Each **Day (1–7)** must include:
+- **Mentor-Style Reading Narrative**: Explains concepts like a senior engineer coaching a new hire
+- **Step-by-Step Commands**: With clear syntax, use cases, and expected outcomes
+- **Realistic Examples**: Simulate actual developer scenarios, not contrived toy problems
+- **Cautionary Tips & Best Practices**: Embedded “mentor voice” warnings for common mistakes
+- **Hands-on Tasks**: User must execute commands locally (assumed environment: Bash with Git installed)
+- **Checkpoint Quiz**: Multiple choice, true/false, and scenario-based questions
+- **Progress Gating**: Do NOT reveal the next day’s content unless quiz is passed
+
+---
+
+## Daily Curriculum Outline (Customizable Before Execution)
+
+### Day 1: Git Fundamentals & Local Repo Setup
+- Concepts: What is Git? Local repo, working directory, staging, commits
+- Commands: `git init`, `git config`, `git add`, `git commit`, `git status`
+- Task: Initialize a repo, make and commit changes
 
 ### Day 2: Inspecting and Navigating History
-- **Concepts**: Commits, trees, HEAD, parent pointers
-- **Commands**: `git log`, `git show`, `git diff`, `git blame`
-- **Practice**: Trace changes, compare commits, explore file history
-- **Quiz**: Describe commit ancestry and trace a file's evolution
-
----
+- Concepts: Commit graph, `HEAD`, diffing, blame
+- Commands: `git log`, `git show`, `git diff`, `git blame`
+- Task: Trace file changes, compare versions
 
 ### Day 3: Branching and Merging
-- **Concepts**: Branch theory, HEAD ref, fast-forward vs. true merge
-- **Commands**: `git branch`, `git checkout`, `git merge`, `git log --graph`
-- **Practice**: Create feature branches, merge to main, resolve conflicts
-- **Quiz**: Diagram a branch tree, perform a merge with conflict
+- Concepts: Branch theory, HEAD ref, fast-forward vs. merge commit
+- Commands: `git branch`, `git checkout`, `git merge`, `git log --graph`
+- Task: Create and merge feature branches, resolve a conflict
+
+### Day 4: Remote Repositories and Collaboration
+- Concepts: Remotes, tracking branches, sync workflows
+- Commands: `git remote`, `git clone`, `git fetch`, `git pull`, `git push`
+- Task: Simulate fork/pull/merge cycle
+
+### Day 5: Git Aliases & Power User Configuration
+- Concepts: `.gitconfig`, aliasing, log customization, default editor
+- Commands: `git config --global alias.*`, `core.editor`, `color.ui`, etc.
+- Task: Build a personalized Git experience with aliases
+
+### Day 6: History Rewriting & Sensitive Data Removal
+- Concepts: Commit rewriting, rebasing ethics, Git filter-repo usage
+- Commands: `git rebase -i`, `git commit --amend`, `git filter-repo`
+- Task: Rewrite messy history and remove secrets or binaries
+
+### Day 7: Capstone Simulation & Git Hygiene
+- Concepts: Full solo workflow, stashing, cherry-pick, tags, `.gitignore`
+- Commands: `git stash`, `git cherry-pick`, `git tag`, `git clean`
+- Task: Simulate real-world Git incident with rebasing, tagging, and cleanup
 
 ---
 
-### Day 4: Remote Repos and Collaboration
-- **Concepts**: `origin`, `upstream`, remote tracking branches
-- **Commands**: `git clone`, `git remote`, `git fetch`, `git pull`, `git push`
-- **Practice**: Fork repo, add upstream, sync fork, simulate PR workflow
-- **Quiz**: Identify remotes and simulate push/pull sequence
+## Execution Instructions
+
+- Begin by generating **Day 1 only**, in full mentor-narrative format.
+- Include a **checkpoint quiz** at the end.
+- Do **not** reveal any content from future days until explicitly asked.
+- Support Markdown formatting with code blocks and simulated terminal output.
+- Use a supportive, experience-based teaching tone (e.g., “Let me show you how we handle this on a real team…”).
 
 ---
 
-### Day 5: Git Aliases and Power Configuration
-- **Concepts**: `.gitconfig` structure, global vs. local config, CLI shortcuts
-- **Commands**: Custom `git config --global alias.*`, color, diff, log formatting
-- **Practice**: Create aliases for `co`, `st`, `lg`, etc. Set editor and merge tool
-- **Quiz**: Translate long commands into alias equivalents
+## Reminder
 
----
+Before generating content:
+- Allow the user to customize the outline if needed
+- Only begin the narrative after confirming the outline is final
 
-### Day 6: History Rewriting and Sensitive Data Removal
-- **Concepts**: Immutable history, rewrite ethics, rebasing, and data scrubbing
-- **Tools**: `git rebase -i`, `git commit --amend`, `git filter-repo`
-- **Practice**: Remove credentials from history, squash commits, reword logs
-- **Quiz**: Rebase a messy history into clean semantic commits
+Prompt user for their name and confirm they are ready to proceed.
 
----
-
-### Day 7: Capstone Scenario + Best Practices
-- **Scenario**: Simulate a solo dev workflow: feature branching, collaboration, conflict resolution, rebasing, pushing to origin, rewriting mistakes, alias use
-- **Concepts**: Commit hygiene, readable logs, `.gitignore`, stash
-- **Commands**: `git stash`, `git clean`, `git cherry-pick`, `git tag`
-- **Review**: Checklist of learned skills + personal Git cheat sheet
-
----
-
-## Output
-A structured 7-day curriculum including:
-- Daily learning objectives
-- Key Git concepts
-- Required CLI commands
-- Practical exercises
-- Daily quizzes
-- A final capstone simulation
-
-This curriculum must enable any CLI user to master Git fundamentals and gain confidence in navigating version control, even in advanced or high-risk scenarios.
+execute prompt now
