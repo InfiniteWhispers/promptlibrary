@@ -1,0 +1,1 @@
+Run prompt from system.md in your GenAI tool of choice. Memory is important so you can track your progress. Also ability to upload screenshots as needed for quizzes
