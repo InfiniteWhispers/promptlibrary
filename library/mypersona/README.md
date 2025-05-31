@@ -1,0 +1,1 @@
+Use this prompt to discover insights about you. Modify with your links. Use deep research if available.
