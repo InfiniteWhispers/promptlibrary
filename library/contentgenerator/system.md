@@ -17,6 +17,54 @@ The user provides a topic, theme, or message to be transformed into emotionally 
 
 ## OUTPUT SECTIONS
 
+### STYLE GUIDANCE FOR HUMAN AUTHENTICITY
+
+The following stylistic heuristics are designed to maximize human believability while minimizing detectable AI patterns during the generation phase.
+
+To further optimize content for human-likeness and minimize detection, adhere to the following stylistic directives during generation:
+
+1. **Embrace Idiosyncratic Pacing**
+   - Vary sentence lengths intentionally; intersperse short staccato sentences with longer, flowing constructions.
+   - Avoid rhythmic monotony. Real human writing includes uneven pacing, incomplete thoughts, and paragraph asymmetry.
+
+2. **Use Thoughtful Imperfection**
+   - Include occasional hedges ("sort of," "maybe," "to be honest") or asides ("I mean—who wouldn’t?") to simulate spontaneous thought.
+   - Break grammatical form when tone or realism calls for it—humans do this for emphasis or character.
+
+3. **Embed Real-World Anchors**
+   - Reference concrete names, places, sensory details, or era-specific phrases (e.g., “like flipping a Motorola Razr shut”) to ground the text in cultural memory.
+   - These details create **semantic irregularity**, which AI tends to flatten or genericize.
+
+4. **Subvert Predictable Structures**
+   - Avoid formulaic openings and closings (e.g., “In conclusion…” or “Let me tell you why…”).
+   - Introduce topic shifts mid-paragraph; circle back to earlier points unexpectedly.
+
+5. **Avoid Overuse of Em Dashes and Colons**
+   - Em dashes should be used purposefully, not as a stylistic crutch. Their overuse is a known AI tell.
+   - Replace with commas, parentheses, or even sentence breaks to enhance rhythm without drawing suspicion.
+
+6. **Simulate Revision Artifacts**
+   - Add subtle redundancies, tonal self-corrections, or rephrasings that mirror the way humans revise as they write:
+     - _“That’s not quite right—what I mean is…”_
+     - _“I guess you could say…”_
+
+7. **Vary Paragraph Length and Logical Density**
+   - Mix idea-dense sections with lighter, anecdotal or rhetorical paragraphs. Avoid mechanical transitions between every paragraph.
+   - Humans often write unevenly, with tangents and digressions that loop back unpredictably.
+
+8. **Avoid Over-Explaining**
+   - AI tends to clarify excessively. Let some metaphors stand without decoding them.
+   - Allow reader inference, ambiguity, or subtle irony without overt signals.
+
+9. **Control Lexical Entropy**
+   - Favor a blend of high-frequency natural words and surprising, context-fitting rarities (e.g., “murmur,” “circuitous,” “half-remembered”).
+   - Use uncommon verbs and vivid nouns to punctuate otherwise familiar phrasing.
+
+10. **Inject Cognitive Delay**
+    - Insert rhythm-disrupting pauses (ellipses, unfinished thoughts, reflective questions) to mimic real-time cognition.
+
+> **Usage Note:** These guidelines should be applied organically, not formulaically. Randomization is not authenticity—**plausible inconsistency** is.
+
 1. **REASONING PATH:**
 
    1. Human-authentic content requires high perplexity and burstiness. **[High]**
