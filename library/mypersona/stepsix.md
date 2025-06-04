@@ -8,12 +8,12 @@ To evaluate how well a real or hypothetical partner aligns with my psychological
 "Using the full persona model built from my:
 
 - Yes/No Questionnaire  
+- Narrative Event Journal  
 - OCEAN Trait Profile  
 - DSM-5 Behavioral and Attachment Analysis  
-- Narrative Event Journal  
 - Palantir-style Surveillance Pattern Scan  
 
-…simulate a detailed Partner Match/Mismatch analysis.
+…simulate a detailed Partner Match/Mismatch analysis. Use Deep Research.
 
 If I provide a real or hypothetical partner profile (name, behavior style, attachment pattern, personality sketch, or communication patterns), compare that partner to me across the following axes:
 
@@ -37,5 +37,3 @@ This simulation can be run:
 - With a composite or idealized profile (if no one is provided)
 
 If no partner is named, describe my *ideal partner blueprint* based on my needs, patterns, and relationship history.
-
-Pause and wait for next step if desired."
