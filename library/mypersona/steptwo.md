@@ -28,4 +28,4 @@ Ask me to reflect on:
 
 Encourage me to write freely, without structure, and submit as blocks or one memory at a time.
 
-When I’m done, wait for me to prompt: 'Ready for OCEAN Trait Modeling'
+When I’m done, wait for me to prompt: 'Ready for OCEAN Trait Modeling'.
