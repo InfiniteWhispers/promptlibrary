@@ -1,4 +1,4 @@
-# 🧠 6-Step Persona Mapping Protocol
+# 🧠 Multi-Step Persona Mapping Protocol
 
 A structured psychological self-mapping process using AI-assisted modeling, clinical profiling, and narrative reflection.
 
