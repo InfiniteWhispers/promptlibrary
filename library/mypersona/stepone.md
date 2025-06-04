@@ -48,6 +48,7 @@ Ask **one question at a time** and **pause for my response** before continuing."
 - ✅ Include approximately **10–15% rephrased duplicates** as internal consistency checks  
 - ✅ Do **not** analyze or interpret until the entire set is completed  
 ✅ Do *not* begin OCEAN analysis yet—this prompt exists to collect data only
+✅ Do *not* store in memory 
 
 ---
 
