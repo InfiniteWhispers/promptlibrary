@@ -5,7 +5,7 @@ To help re-integrate traits flagged as risky, contradictory, or maladaptive acro
 
 **Prompt:**
 
-"Based on the full persona model—including my yes/no diagnostic, OCEAN profile, DSM-5 behavioral traits, surveillance risk scan, and partner compatibility simulation—guide me in writing a risk reframing journal.
+"Based on the full persona model—including my yes/no diagnostic, journal narratives and discussions, OCEAN profile, DSM-5 behavioral traits, surveillance risk scan, and partner compatibility simulation—guide me in writing a risk reframing journal. Use Deep Research for this as well.
 
 For each of the following:
 
