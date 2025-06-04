@@ -44,7 +44,7 @@ Add nuance and contextual clarity for better psychological modeling.
 **Prompt Name:** `Big Five Personality Model`
 
 **Description:**  
-Run a full Big Five (OCEAN) personality model using data from Steps 1 and 2.
+Run a full Big Five (OCEAN) personality model using data from Steps 1 and 2 plus additional online resources. Important to use Deep Research.
 
 **Traits:**  
 - Openness  
@@ -96,15 +96,15 @@ Understand how your patterns may be flagged or misread by systemic observers.
 
 ---
 
-## 🔹 Step 6: Relationship Compatibility & Risk Reframing  
+## 🔹 Step 6/7: Relationship Compatibility & Risk Reframing  
 **Prompt Name:** `Partner Simulation + Self Reintegration`
 
-**Part A: Partner Simulation**  
+**6: Partner Simulation**  
 - Score compatibility with a real or hypothetical partner across 8 axes  
 - Identify green flags (fit) and red flags (friction)  
 - Understand emotional and attachment alignment
 
-**Part B: Risk Reframing Journal**  
+**7: Risk Reframing Journal**  
 For any trait flagged as problematic or misunderstood:
 - Origin story  
 - Protective value  
@@ -124,6 +124,17 @@ Close the loop—reclaim misunderstood parts of yourself and better identify com
 4. Clinical Depth (DSM-5 & attachment markers)  
 5. Systemic Reflection (risk and surveillance view)  
 6. Relational Mirror (partner simulation + risk reframing)
+
+---
+
+## 🔹 Step Final: Generate Persona Dossier
+**Prompt Name:** `Persona Dossier`
+
+**Description:**  
+This is the final step and pulls all research together into a single comprehensive persona dossier that represents you.
+
+**Purpose:**  
+Provide insights to your key drivers and influences. Generate a persona file that can be saved to a text file and leveraged within other solutions or processes to simulate your persona into the equation. Think 'thinking out loud - talking to yourself' or 'having a dialog addressing a stressful situation'. Also maybe repeat this once a year and compare the differences of outcome.
 
 ---
 
