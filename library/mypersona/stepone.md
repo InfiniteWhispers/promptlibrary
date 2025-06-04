@@ -21,7 +21,7 @@ Begin by asking me a series of structured yes/no questions about myself. Cover a
 - Self-concept and resilience  
 - Communication and vulnerability preferences  
 
-Each question should be clear, binary, and non-leading. No long explanations—just yes or no. Ask them sequentially.
+Each question should be clear, binary, and non-leading. No long explanations—just yes or no. Ask them sequentially. Must be interactive and answered one at a time pausing for user response after each question.
 
 After all questions are answered, pause and let me prompt for Step 2: the OCEAN trait profile."
 
