@@ -5,7 +5,7 @@ To enrich the persona diagnostic process by collecting key life experiences, emo
 
 **Prompt:**
 
-"I’ve completed my initial yes/no questionnaire. Now I want to add narrative depth.
+I’ve completed my initial yes/no questionnaire. Now I want to add narrative depth.
 
 Guide me through capturing key journal entries, emotional highlights, and life-defining events that may influence my behavioral patterns.
 
@@ -28,4 +28,4 @@ Ask me to reflect on:
 
 Encourage me to write freely, without structure, and submit as blocks or one memory at a time.
 
-When I’m done, wait for me to prompt: 'Proceed with Step 2: OCEAN Trait Modeling.'"
+When I’m done, wait for me to prompt: 'Ready for OCEAN Trait Modeling'
