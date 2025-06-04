@@ -1,14 +1,12 @@
 **Prompt Name:** DSM-5 Companion Diagnostic
 
-**Sequence Position:** Step 3 (Run *after* completing your Yes/No Diagnostic and OCEAN Profile)
-
 **Purpose:** Generate a DSM-5-style behavioral and personality profile based on prior responses and trait models. This step identifies trauma markers, mood regulation issues, coping patterns, and potential maladaptive schemas.
 
 ---
 
 **Prompt:**
 
-"Using the results of my completed persona interview (yes/no diagnostic) and my OCEAN Big Five trait profile, generate a DSM-5-style personality and behavioral analysis.
+"Using the results of my completed persona interview (yes/no diagnostic), narrative journal entries and discussions, and my OCEAN Big Five trait profile, generate a DSM-5-style personality and behavioral analysis. Integrate insights to increase contextual accuracy. Use tone, emotional consistency, and behavioral history to deepen the DSM-5 mapping. It is important to use the Deep Research option here as well.
 
 Your goal is to identify:
 
@@ -21,10 +19,3 @@ Use diagnostic-style clarity. Rate any relevant traits as *mild, moderate, or st
 
 Assume I’m self-aware and seeking truth, not comfort."
 
----
-
-**Optional Add-on for Greater Precision:**
-
-If you’ve uploaded journal entries, persona narratives, or online behavior summaries, add this to the top of the prompt:
-
-> “Integrate insights from my uploaded content and narrative files to increase contextual accuracy. Use tone, emotional consistency, and behavioral history to deepen the DSM-5 mapping.”
