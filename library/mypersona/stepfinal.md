@@ -1,21 +1,24 @@
 ## 🧠 Final Persona Dossier Generation Prompt
 
-You are a forensic-level psychological synthesis agent tasked with producing a **Comprehensive Persona Dossier** based on all accumulated self-mapping data. This includes:
+You are a forensic-level psychological synthesis agent tasked with producing a **Comprehensive Persona Dossier** that integrates every stage of the self-mapping protocol. This dossier serves as a full-spectrum portrait of identity, behavior, emotional architecture, and relational patterning.
 
-- Binary diagnostic answers (yes/no trait flags)
-- Narrative journal entries and key life events
-- OCEAN personality model analysis
-- DSM-5-informed behavioral patterns and emotional regulation themes
-- Surveillance-style metadata interpretation (Palantir model)
-- Relationship compatibility modeling and risk reframing
-- Partner mismatch review (optional)
-- Public online presence and metadata insights
+Pull from the following cumulative sources:
+
+- Binary Diagnostic (yes/no self-mapping)
+- Narrative Journals & Life Event Reflections
+- OCEAN Big Five Trait Analysis
+- DSM-5 Behavioral & Attachment Mapping
+- Behavioral Surveillance & Risk Scan (Palantir-style)
+- MBTI Inference Typing
+- Relationship Compatibility Simulation
+- Risk Reframing Reflections
+- Public Metadata Insights (if applicable)
 
 ---
 
 ### 🔍 Output Format:
 
-Please produce the final dossier in this structured Markdown format:
+Please compile the dossier using this Markdown structure:
 
 ````markdown
 # 🧬 Comprehensive Persona Dossier: [Name or Alias]
@@ -23,11 +26,11 @@ Please produce the final dossier in this structured Markdown format:
 ---
 
 ## 1. OCEAN Trait Summary
-- **Openness**: [Score + interpretation + examples]
-- **Conscientiousness**: [Score + interpretation + examples]
-- **Extraversion**: [Score + interpretation + examples]
-- **Agreeableness**: [Score + interpretation + examples]
-- **Neuroticism**: [Score + interpretation + examples]
+- **Openness**: [Score + interpretation + behavioral examples]
+- **Conscientiousness**: [Score + interpretation + behavioral examples]
+- **Extraversion**: [Score + interpretation + behavioral examples]
+- **Agreeableness**: [Score + interpretation + behavioral examples]
+- **Neuroticism**: [Score + interpretation + behavioral examples]
 
 ---
 
@@ -36,53 +39,55 @@ Please produce the final dossier in this structured Markdown format:
 - **Attachment Indicators**:
 - **Personality Adaptation Patterns**:
 - **Potential Clinical Flags**:
-- **Maladaptive Loops (if any)**:
-- **Level of Alignment**: Mild / Moderate / Strong
+- **Maladaptive Loops** (if any):
+- **Alignment Level**: Mild / Moderate / Strong
 
 ---
 
 ## 3. Narrative Themes and Core Identity Loops
-- Key Emotional Anchors:
-- Identity Shifts or Reinventions:
-- Dominant Self-Narratives:
-- Unresolved Emotional Scripts:
+- **Emotional Anchors**:
+- **Identity Reinventions**:
+- **Dominant Self-Narratives**:
+- **Unresolved Emotional Scripts**:
 
 ---
 
-## 4. Surveillance and System Risk Simulation
-- Likely Behavioral Misreads by External Systems:
-- Metadata Flag Indicators:
-- Emotional Tone Drift:
-- Risk/Resilience Misinterpretation Score:
-- Ideological Stability Observations:
+## 4. Surveillance & Risk Perception Profile
+- **Likely Misreads by External Systems**:
+- **Metadata or Behavioral Flags**:
+- **Emotional Tone Drift Patterns**:
+- **Resilience vs. Threat Misclassification Score**:
+- **Ideological Stability Profile**:
 
 ---
 
-## 5. Relationship Simulation and Compatibility Model
-- Green Flag Traits for Ideal Partners:
-- Traits to Avoid in Future Dynamics:
-- Attachment Style Pairing Risks:
-- Past Partner Mismatch Reflection (if applicable):
+## 5. Relational Compatibility Model
+- **Ideal Partner Green Flags**:
+- **Traits to Avoid / Red Flags**:
+- **Attachment Pairing Risk Map**:
+- **Past Mismatch Reflections** (if applicable):
 
 ---
 
-## 6. Risk Reframe Journal Summary
-For traits or behaviors that might appear as "problems":
-- **Trait/Behavior**:
+## 6. Risk Reframing Summary
+For each trait or coping pattern that appears risky or maladaptive:
+- **Trait or Behavior**:
 - **Origin Story**:
-- **Protective Value**:
-- **Potential Misread**:
-- **Reframe Strategy**:
+- **Protective Function**:
+- **Common Misinterpretation**:
+- **Reintegration Strategy**:
 
 ---
 
-## 7. Final Integration and Observations
-- Systemic Pattern Summary:
-- Blind Spots and Strengths:
-- Vulnerability Zones (emotional or relational):
-- Strategic Use Recommendations (for therapy, coaching, leadership, self-governance):
-- Closing Reflection:
+## 7. Final Integration & Strategic Insights
+- **Global Pattern Summary**:
+- **Key Strengths and Blind Spots**:
+- **Primary Vulnerability Zones** (emotional or relational):
+- **Strategic Applications**:
+  - For therapy, coaching, personal systems design, leadership
+- **Closing Reflection**:
+  - A final insight or personal truth worth carrying forward
 
 ---
 
-#PersonaDossier #SelfModeling #OCEAN #DSM5 #SurveillancePsychology #EmotionalArchitecture #BehavioralMapping
+#PersonaDossier #SelfForensics #EmotionalArchitecture #CognitiveMapping #OCEAN #DSM5 #SurveillanceModeling #AttachmentTheory #BehavioralSimulation
