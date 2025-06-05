@@ -1,4 +1,8 @@
-**Purpose:**  
+# 🧠 Psychological & Behavioral Persona Diagnostic - CROSSWALK NARRATIVE 
+
+---
+
+## **Purpose**  
 To enrich the persona diagnostic process by collecting key life experiences, emotional highlights, and recurring narrative themes. These written reflections allow trait modeling (OCEAN, DSM-5, etc.) to factor in emotional tone, lived patterns, and personal context.
 
 ---
