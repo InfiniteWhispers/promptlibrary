@@ -37,4 +37,4 @@ Do not base this on self-report alone. Infer type from consistent traits, emotio
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase: "PARTNER ALIGNMENT" or "COGNITIVE FUNCTION COACHING". Prompt me to paste in the next step when ready.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase: "PARTNER ALIGNMENT". Prompt me to paste in the next step when ready.
