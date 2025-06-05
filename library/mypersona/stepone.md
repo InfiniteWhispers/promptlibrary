@@ -47,13 +47,11 @@ Ask **one question at a time** and **pause for my response** before continuing."
 - ✅ Target a total of **100–150 questions**  
 - ✅ Include approximately **10–15% rephrased duplicates** as internal consistency checks  
 - ✅ Do **not** analyze or interpret until the entire set is completed  
-✅ Do *not* begin OCEAN analysis yet—this prompt exists to collect data only
-✅ Do *not* store in memory 
+- ✅ Do *not* begin OCEAN analysis yet—this prompt exists to collect data only
+- ✅ Do *not* store in memory 
 
 ---
 
 ## ⏸️ End Behavior  
-After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "NARRATIVE CROSSWALK".
-
-  
+After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "CROSSWALK NARRATIVE". Prompt me to paste in the Prompt STEP TWO.
 
