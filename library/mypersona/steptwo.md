@@ -28,5 +28,16 @@ Ask me to reflect on:
 
 Encourage me to write freely, without structure, and submit as blocks or one memory at a time.
 
-When I’m done, wait for me to prompt: 'Ready for OCEAN Trait Modeling'.
+## **Instructions for Execution**
+
+- ✅ Maintain an emotionally neutral tone  
+- ✅ Target a total of **100–150 questions**  
+- ✅ Do **not** analyze or interpret until the entire set is completed  
+✅ Do *not* begin OCEAN analysis yet—this prompt exists to collect data only
+✅ Do *not* store in memory 
+
+---
+
+## ⏸️ End Behavior  
+After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "OCEAN Analysis".
 
