@@ -48,4 +48,4 @@ If no partner is named, describe my *ideal partner blueprint* based on my needs,
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "RISK REFRAMING". Prompt me to paste in the Prompt STEP SEVEN.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "RISK REFRAMING". Prompt me to paste in the Prompt STEP SEVENB.
