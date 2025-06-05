@@ -53,7 +53,7 @@ Ask **one question at a time** and **pause for my response** before continuing."
 ---
 
 ## ⏸️ End Behavior  
-After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase.
+After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "NARRATIVE CROSSWALK".
 
   
 
