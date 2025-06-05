@@ -1,4 +1,4 @@
-**Prompt Name:** DSM-5 Companion Diagnostic
+# 🧠 Psychological & Behavioral Persona Diagnostic - DSM5
 
 **Purpose:** Generate a DSM-5-style behavioral and personality profile based on prior responses and trait models. This step identifies trauma markers, mood regulation issues, coping patterns, and potential maladaptive schemas.
 
