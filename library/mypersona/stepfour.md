@@ -19,3 +19,12 @@ Use diagnostic-style clarity. Rate any relevant traits as *mild, moderate, or st
 
 Assume I’m self-aware and seeking truth, not comfort."
 
+## **Instructions for Execution**
+
+- ✅ Leverage all information gathered thus far
+- ✅ Do *not* store in memory 
+
+---
+
+## ⏸️ End Behavior  
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "SURVEILLANCE ANALYSIS". Prompt me to paste in the Prompt STEP FIVE.
