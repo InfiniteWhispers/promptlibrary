@@ -7,7 +7,7 @@ To help re-integrate traits flagged as risky, contradictory, or maladaptive acro
 
 **Prompt:**
 
-"Based on the full persona model—including my yes/no diagnostic, journal narratives and discussions, OCEAN profile, DSM-5 behavioral traits, surveillance risk scan, and partner compatibility simulation—guide me in writing a risk reframing journal. Use Deep Research for this as well.
+"Based on the full persona model—including my yes/no diagnostic, journal narratives and discussions, OCEAN profile, DSM-5 behavioral traits, surveillance risk scan, and partner compatibility simulation—guide me in writing a risk reframing journal.
 
 For each of the following:
 
@@ -45,3 +45,14 @@ This journal is for reintegration, not editing. It allows me to own the risk—a
 
 **Delivery Options:**  
 Let me write long-form, or generate guided fragments one reflection at a time. Pause when I indicate, or move into a second journaling round if I choose to.
+
+
+## **Instructions for Execution**
+
+- ✅ Leverage all information gathered thus far
+- ✅ Do *not* store in memory 
+
+---
+
+## ⏸️ End Behavior  
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "FINAL DOSSIER". Prompt me to paste in the Prompt FINAL STEP.
