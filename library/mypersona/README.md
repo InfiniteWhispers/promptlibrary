@@ -96,15 +96,32 @@ Understand how your patterns may be flagged or misread by systemic observers.
 
 ---
 
-## 🔹 Step 6/7: Relationship Compatibility & Risk Reframing  
+## 🔹 Step 6: MBTI Inference Typing  
+**Prompt Name:** `MBTI Typing from Profile Data`
+
+**Description:**  
+Determine your likely MBTI type based on OCEAN data, DSM-informed behavior, attachment style, and surveillance-style modeling.
+
+**Includes:**  
+- Likely four-letter MBTI type  
+- Rationale for each cognitive preference  
+- Function stack overview  
+- One or two possible alternate types based on context shifts
+
+**Purpose:**  
+Translate your behavior into cognitive preference terms and identify how you process information, relate emotionally, and structure decisions.
+
+---
+
+## 🔹 Step 7: Relationship Compatibility & Risk Reframing  
 **Prompt Name:** `Partner Simulation + Self Reintegration`
 
-**6: Partner Simulation**  
+**7a: Partner Simulation**  
 - Score compatibility with a real or hypothetical partner across 8 axes  
 - Identify green flags (fit) and red flags (friction)  
 - Understand emotional and attachment alignment
 
-**7: Risk Reframing Journal**  
+**7b: Risk Reframing Journal**  
 For any trait flagged as problematic or misunderstood:
 - Origin story  
 - Protective value  
@@ -123,11 +140,12 @@ Close the loop—reclaim misunderstood parts of yourself and better identify com
 3. Trait Model (OCEAN personality system)  
 4. Clinical Depth (DSM-5 & attachment markers)  
 5. Systemic Reflection (risk and surveillance view)  
-6. Relational Mirror (partner simulation + risk reframing)
+6. Cognitive Mapping (MBTI-based typing)  
+7. Relational Mirror (partner simulation + risk reframing)
 
 ---
 
-## 🔹 Step Final: Generate Persona Dossier
+## 🔹 Step Final: Generate Persona Dossier  
 **Prompt Name:** `Persona Dossier`
 
 **Description:**  
@@ -141,4 +159,4 @@ Provide insights to your key drivers and influences. Generate a persona file tha
 **Author’s Note:**  
 This protocol is for self-mastery, not self-diagnosis. Use it to know your design, reclaim your story, and build your relational and digital architecture intentionally.
 
-#PersonaMapping #OCEANModel #DSM5 #SelfForensics #AIEnhancedSelfwork #EmotionalArchitecture
+#PersonaMapping #OCEANModel #DSM5 #MBTI #SelfForensics #AIEnhancedSelfwork #EmotionalArchitecture
