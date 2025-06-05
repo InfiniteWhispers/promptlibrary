@@ -1,3 +1,5 @@
+# 🧠 Psychological & Behavioral Persona Diagnostic - RISK REFRAMING 
+
 **Purpose:**  
 To help re-integrate traits flagged as risky, contradictory, or maladaptive across the persona mapping process. The goal is not to dismiss risk, but to **understand its origin**, **own its narrative**, and **transform it into insight** or intentional design.
 
