@@ -43,5 +43,5 @@ Encourage me to write freely, without structure, and submit as blocks or one mem
 ---
 
 ## ⏸️ End Behavior  
-After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "OCEAN Analysis". Prompt me to paste in the OCEAN Prompt STEP THREE.
+After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "OCEAN ANALYSIS". Prompt me to paste in the Prompt STEP THREE.
 
