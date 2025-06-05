@@ -1,3 +1,5 @@
+# 🧠 Psychological & Behavioral Persona Diagnostic - SURVEILLANCE ANALYSIS 
+
 **Purpose:**  
 To simulate how a behavioral surveillance system—like Palantir, Five Eyes, or domestic threat intelligence platforms—might interpret my personality, patterns, and online metadata. This model reveals misread risks, behavioral anomalies, or digital “false flags” based on psychological signals and life patterns. Deep Research option is important here as well.
 
