@@ -1,3 +1,5 @@
+# 🧠 Psychological & Behavioral Persona Diagnostic - PARTNER ALIGNMENT
+
 **Purpose:**  
 To evaluate how well a real or hypothetical partner aligns with my psychological architecture. This simulation compares our personality traits, emotional regulation styles, communication tendencies, and attachment dynamics to surface both compatibility “green flags” and mismatch “red flags.”
 
