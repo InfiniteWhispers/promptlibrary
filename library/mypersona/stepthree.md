@@ -1,4 +1,5 @@
-# Personality Analysis of Your Online Presence  
+# 🧠 Psychological & Behavioral Persona Diagnostic - OCEAN ANALYSIS 
+ 
 ## Use Deep Research option if available 
 
 **Objective**:   
