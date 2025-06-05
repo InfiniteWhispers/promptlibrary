@@ -46,6 +46,7 @@ Conduct a deep and comprehensive analysis of the Big Five personality traits (OC
 
 ## **Instructions for Execution**
 
+- ✅ Leverage all information gathered thus far
 - ✅ Verify Profile Links were provided. If not,encourage to share now before proceeding for improved outcome however it is optional. Provide a few examples.
 - ✅ Do *not* store in memory 
 
