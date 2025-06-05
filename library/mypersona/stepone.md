@@ -1,4 +1,4 @@
-# 🧠 Psychological & Behavioral Persona Diagnostic
+# 🧠 Psychological & Behavioral Persona Diagnostic - BINARY DIAGNOSTIC 
 
 ---
 
