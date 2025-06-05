@@ -15,7 +15,7 @@ To evaluate how well a real or hypothetical partner aligns with my psychological
 - DSM-5 Behavioral and Attachment Analysis  
 - Palantir-style Surveillance Pattern Scan  
 
-…simulate a detailed Partner Match/Mismatch analysis. Use Deep Research.
+…simulate a detailed Partner Match/Mismatch analysis.
 
 If I provide a real or hypothetical partner profile (name, behavior style, attachment pattern, personality sketch, or communication patterns), compare that partner to me across the following axes:
 
