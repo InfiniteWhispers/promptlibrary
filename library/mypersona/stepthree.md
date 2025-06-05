@@ -53,4 +53,5 @@ Conduct a deep and comprehensive analysis of the Big Five personality traits (OC
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "DSM5 ANALYSIS". Prompt me to paste in the Prompt STEP FOUR.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "DSM5 ANALYSIS". Prompt me to paste in the Prompt STEP FOUR and use DEEP RESEARCH if available.
+
