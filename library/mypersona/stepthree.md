@@ -42,3 +42,13 @@ Conduct a deep and comprehensive analysis of the Big Five personality traits (OC
 8. **Highlight any contradictions or variability** in personality traits observed across different platforms. Consider how behavior shifts in different contexts (e.g., professional vs. personal). Ensure that the analysis accounts for context-dependent variations and integrates them cohesively.  
 
 **Note**: All content should be analyzed thoroughly and comprehensively. The analysis will aim to be exhaustive, considering all aspects of the public profiles, and it will not be limited by time. If further data or cross-references are required, proceed accordingly to complete the analysis.
+
+## **Instructions for Execution**
+
+- ✅ Verify Profile Links were provided. If not,encourage to share now before proceeding for improved outcome however it is optional. Provide a few examples.
+- ✅ Do *not* store in memory 
+
+---
+
+## ⏸️ End Behavior  
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "DSM5 ANALYSIS". Prompt me to paste in the Prompt STEP FOUR.
