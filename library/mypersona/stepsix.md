@@ -39,3 +39,13 @@ This simulation can be run:
 - With a composite or idealized profile (if no one is provided)
 
 If no partner is named, describe my *ideal partner blueprint* based on my needs, patterns, and relationship history.
+
+## **Instructions for Execution**
+
+- ✅ Leverage all information gathered thus far
+- ✅ Do *not* store in memory 
+
+---
+
+## ⏸️ End Behavior  
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "PARTNER ALIGNMENT". Prompt me to paste in the Prompt STEP SIX.
