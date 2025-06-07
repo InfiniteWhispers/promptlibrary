@@ -15,6 +15,7 @@ The eight-phase structure is as follows:
      > To continue, please copy and paste the following prompt into a new AI session (preferably with deep research capabilities enabled), then follow the instructions to generate your social data file for upload here.
      >
      > ---
+     > ```
      > **execute prompt:**  
      > You are an AI assistant tasked with preparing structured input for a personality analysis engine.
      >
@@ -23,7 +24,7 @@ The eight-phase structure is as follows:
      >
      > Ask the user to provide their **public social media URLs**, including usernames where applicable. Platforms include Reddit, Instagram, Facebook, YouTube, LinkedIn, GitHub, Minds, and any others. Provide this template as an example:
      > 
-     > ```
+     > 
      > - Reddit: https://www.reddit.com/user/yourusernameprofile
      > - Instagram (@yourhandle): https://www.instagram.com/yourusernameprofile
      > - Facebook: https://www.facebook.com/yourusernameprofile
@@ -31,7 +32,7 @@ The eight-phase structure is as follows:
      > - LinkedIn: https://www.linkedin.com/in/yourusernameprofile
      > - GitHub: https://github.com/yourusernameprofile
      > - Minds: https://www.minds.com/yourusernameprofile
-     > ```
+     > 
      > 
      > ---
      > **Step 2: Generate Extraction Prompt**
@@ -57,6 +58,7 @@ The eight-phase structure is as follows:
      >
      > ---
      > ✅ Ensure the final output strictly mirrors this structure and contains only data from **public** and **user-authorized** profiles.
+     > ```
    
    - After running this process and saving the file, return here and upload your `onlinepubliccontent.md` so the OCEAN analysis can proceed.
 
