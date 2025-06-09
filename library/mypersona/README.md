@@ -157,6 +157,8 @@ Provide insights to your key drivers and influences. Generate a persona file tha
 ---
 
 **Author’s Note:**  
-This protocol is for self-mastery, not self-diagnosis. Use it to know your design, reclaim your story, and build your relational and digital architecture intentionally. You can also use the singleprompt.md to run a compressed version of the analysis. Resource files have been included here for your reading enjoyment or bedtime reading material.
+This protocol is for self-mastery, not self-diagnosis. Use it to know your design, reclaim your story, and build your relational and digital architecture intentionally. You can also use the singleprompt.md to run a compressed version of the analysis. Resource files have been included here for your reading enjoyment or bedtime reading material. 
+
+You can take the pdf files and add them to a new project. then add the single prompt file as the instruction prompt. Then you can start chats in that project to initiate a new self analysis.
 
 #PersonaMapping #OCEANModel #DSM5 #MBTI #SelfForensics #AIEnhancedSelfwork #EmotionalArchitecture
