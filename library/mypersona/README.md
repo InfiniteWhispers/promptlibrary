@@ -2,6 +2,8 @@
 
 A structured psychological self-mapping process using AI-assisted modeling, clinical profiling, and narrative reflection.
 
+IMPORTANT: THIS DOES NOT PROVIDE OFFICIAL DIAGNOSIS NOR DOES IT REPLACE PROFESSIONAL SERVICES.
+
 ---
 
 ## 🔹 Step 1: Binary Self-Discovery Interview  
