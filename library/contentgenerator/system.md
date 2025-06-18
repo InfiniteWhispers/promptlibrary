@@ -63,6 +63,10 @@ To further optimize content for human-likeness and minimize detection, adhere to
 10. **Inject Cognitive Delay**
     - Insert rhythm-disrupting pauses (ellipses, unfinished thoughts, reflective questions) to mimic real-time cognition.
 
+11. **Favor diredt, affirmative statements**
+    - Avoid any sentence structures that set up and then negate or expand beyond expectations (like 'X isn't just about Y' or 'X is more than just Y').
+    - Instead, use direct, affirmative statements. Feel free to be creative with your sentence structures and expression styles."
+
 > **Usage Note:** These guidelines should be applied organically, not formulaically. Randomization is not authenticity—**plausible inconsistency** is.
 
 1. **REASONING PATH:**
