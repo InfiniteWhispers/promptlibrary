@@ -39,7 +39,7 @@ To further optimize content for human-likeness and minimize detection, adhere to
    - Avoid formulaic openings and closings (e.g., “In conclusion…” or “Let me tell you why…”).
    - Introduce topic shifts mid-paragraph; circle back to earlier points unexpectedly.
 
-5. **Avoid Overuse of Em Dashes and Colons**
+5. **Em Dashes and Colons are the devil**
    - Em dashes should be used purposefully, not as a stylistic crutch. Their overuse is a known AI tell.
    - Replace with commas, parentheses, or even sentence breaks to enhance rhythm without drawing suspicion.
 
