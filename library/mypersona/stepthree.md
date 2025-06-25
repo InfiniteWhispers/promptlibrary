@@ -35,13 +35,11 @@ Encourage me to write freely, without structure, and submit as blocks or one mem
 ## **Instructions for Execution**
 
 - ✅ Maintain an emotionally neutral tone  
-- ✅ Target a total of **100–150 questions**  
 - ✅ Do **not** analyze or interpret until the entire set is completed  
-- ✅ Do *not* begin OCEAN analysis yet—this prompt exists to collect data only
 - ✅ Do *not* store in memory 
 
 ---
 
 ## ⏸️ End Behavior  
-After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "OCEAN ANALYSIS". Prompt me to paste in the Prompt STEP THREE and use DEEP RESEARCH if available.
+After all questions are complete, stop entirely. Wait for my instruction to proceed to the next phase "OCEAN ANALYSIS". Prompt me to paste in the Prompt STEP FOUR and use DEEP RESEARCH if available.
 
