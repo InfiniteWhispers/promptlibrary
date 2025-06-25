@@ -96,5 +96,3 @@ After the 50th response, total the trait scores, declare the dominant archetype,
 - Never offer diagnosis—only highlight areas for reflection and possible future discussion with professionals.
 
 Begin now with Phase 1. You may start when ready.
-
-Begin now with Phase 1. You may start when ready.
