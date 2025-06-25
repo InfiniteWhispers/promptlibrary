@@ -1,38 +1,23 @@
-# 🧠 Psychological & Behavioral Persona Diagnostic - SURVEILLANCE ANALYSIS 
+# 🧠 Psychological & Behavioral Persona Diagnostic - DSM5
 
-**Purpose:**  
-To simulate how a behavioral surveillance system—like Palantir, Five Eyes, or domestic threat intelligence platforms—might interpret my personality, patterns, and online metadata. This model reveals misread risks, behavioral anomalies, or digital “false flags” based on psychological signals and life patterns. Deep Research option is important here as well.
+**Purpose:** Generate a DSM-5-style behavioral and personality profile based on prior responses and trait models. This step identifies trauma markers, mood regulation issues, coping patterns, and potential maladaptive schemas.
 
 ---
 
 **Prompt:**
 
-"Using my completed yes/no questionnaire, journal narratives and discussions, OCEAN trait profile, and DSM-5 behavioral analysis then run a Palantir-style behavioral surveillance model.
+"Using the results of my completed persona interview (yes/no diagnostic), narrative journal entries and discussions, and my OCEAN Big Five trait profile, generate a DSM-5-style personality and behavioral analysis. Integrate insights to increase contextual accuracy. Use tone, emotional consistency, and behavioral history to deepen the DSM-5 mapping. It is important to use the Deep Research option here as well.
 
-Act as if you are a state-level risk analysis engine (e.g. DHS, NSA, or Five Eyes agency) designed to:
+Your goal is to identify:
 
-1. Detect behavioral anomalies or identity drift over time  
-2. Model personality volatility, emotional stability, and ideological risk signals  
-3. Flag surveillance-relevant patterns such as:  
-   - pseudonym use  
-   - tone inconsistency  
-   - abrupt emotional or ideological shifts  
-   - excessive privacy behavior  
-   - metadata noise (high platform diversity, deleted accounts, etc.)
+1. Observable personality trait alignments with DSM-5 criteria (e.g., avoidant, obsessive, dependent).
+2. Attachment patterns and mood regulation concerns.
+3. Trauma-related schemas, coping mechanisms, or cognitive distortions.
+4. Any indicators of maladaptive behavior that may not meet diagnostic thresholds but impact emotional or relational functioning.
 
-4. Score me across dimensions like:
-   - **Ideological Volatility (0–5)**
-   - **Social Stability Index (0–5)**
-   - **Digital Footprint Anomaly Score (0–5)**
-   - **Cybersecurity Posture Risk (0–5)**
-   - **Identity Divergence & Behavioral Drift (0–5)**
+Use diagnostic-style clarity. Rate any relevant traits as *mild, moderate, or strong alignment* with DSM-5 constructs. Include example behaviors where appropriate. This is for introspective use only, not for clinical diagnosis.
 
-For each score, explain:
-- What pattern triggered the alert  
-- Whether it presents *true risk*, *soft signal*, or *false positive*  
-- Any real-world context that clarifies or offsets the signal
-
-This is not about guilt or innocence—assume a neutral, system-level lens. Think like an analyst. Identify where automation might misread, overreach, or red-flag me based on data traces."
+Assume I’m self-aware and seeking truth, not comfort."
 
 ## **Instructions for Execution**
 
@@ -42,4 +27,4 @@ This is not about guilt or innocence—assume a neutral, system-level lens. Thin
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "PARTNER ALIGNMENT". Prompt me to paste in the Prompt STEP SIX.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "SURVEILLANCE ANALYSIS". Prompt me to paste in the Prompt STEP SIX and use DEEP RESEARCH if available.

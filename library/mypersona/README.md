@@ -24,7 +24,18 @@ Generate a fast, unfiltered pattern map to power future analysis.
 
 ---
 
-## 🔹 Step 2: Reflective Narrative Submission  
+## 🔹 Step 2: Jungian Archetype Analysis  
+**Prompt Name:** `Jungian Archetype`
+
+**Description:**  
+This phase identifies a user's dominant archetype by analyzing their responses to a 50-question immersive personality assessment. Each archetype—like Caregiver, Rebel, or Magician—is ranked using five core traits: **Empathy, Skills, Independence, Wisdom, and Creativity**. Questions are scenario-based, randomized, and engaging, designed to reduce bias and enhance immersion. The system dynamically adapts each session for uniqueness, tracks progress to avoid repeats, and analyzes results to deliver a personalized archetype profile with trait-based justification.
+
+**Purpose:**
+This diagnostic is intended to be fast, intuitive, and emotionally bypassing—emphasizing reflexive answers over rationalization. The resulting data will be used for pattern modeling in later phases.
+
+---
+
+## 🔹 Step 3: Reflective Narrative Submission  
 **Prompt Name:** `Narrative Event + Journal Companion`
 
 **Description:**  
@@ -42,7 +53,7 @@ Add nuance and contextual clarity for better psychological modeling.
 
 ---
 
-## 🔹 Step 3: OCEAN Trait Analysis  
+## 🔹 Step 4: OCEAN Trait Analysis  
 **Prompt Name:** `Big Five Personality Model`
 
 **Description:**  
@@ -65,7 +76,7 @@ Identify your core psychological architecture.
 
 ---
 
-## 🔹 Step 4: DSM-5 Behavioral and Attachment Analysis  
+## 🔹 Step 5: DSM-5 Behavioral and Attachment Analysis  
 **Prompt Name:** `Clinical Profile Diagnostic`
 
 **Description:**  
@@ -82,7 +93,7 @@ Reveal hidden traits, dysregulation risk, and unresolved emotional scripts.
 
 ---
 
-## 🔹 Step 5: Behavioral Surveillance Simulation  
+## 🔹 Step 6: Behavioral Surveillance Simulation  
 **Prompt Name:** `Palantir Risk Modeling`
 
 **Description:**  
@@ -98,7 +109,7 @@ Understand how your patterns may be flagged or misread by systemic observers.
 
 ---
 
-## 🔹 Step 6: MBTI Inference Typing  
+## 🔹 Step 7: MBTI Inference Typing  
 **Prompt Name:** `MBTI Typing from Profile Data`
 
 **Description:**  
@@ -115,15 +126,15 @@ Translate your behavior into cognitive preference terms and identify how you pro
 
 ---
 
-## 🔹 Step 7: Relationship Compatibility & Risk Reframing  
+## 🔹 Step 8: Relationship Compatibility & Risk Reframing  
 **Prompt Name:** `Partner Simulation + Self Reintegration`
 
-**7a: Partner Simulation**  
+**8a: Partner Simulation**  
 - Score compatibility with a real or hypothetical partner across 8 axes  
 - Identify green flags (fit) and red flags (friction)  
 - Understand emotional and attachment alignment
 
-**7b: Risk Reframing Journal**  
+**8b: Risk Reframing Journal**  
 For any trait flagged as problematic or misunderstood:
 - Origin story  
 - Protective value  
@@ -137,13 +148,14 @@ Close the loop—reclaim misunderstood parts of yourself and better identify com
 
 ## ✅ Summary: Flow Sequence
 
-1. Binary Data (yes/no truth layer)  
-2. Emotional Story (context and narrative)  
-3. Trait Model (OCEAN personality system)  
-4. Clinical Depth (DSM-5 & attachment markers)  
-5. Systemic Reflection (risk and surveillance view)  
-6. Cognitive Mapping (MBTI-based typing)  
-7. Relational Mirror (partner simulation + risk reframing)
+1. Binary Data (yes/no truth layer)
+2. Jungian Archetype analysis
+3. Emotional Story (context and narrative)  
+4. Trait Model (OCEAN personality system)  
+5. Clinical Depth (DSM-5 & attachment markers)  
+6. Systemic Reflection (risk and surveillance view)  
+7. Cognitive Mapping (MBTI-based typing)  
+8. Relational Mirror (partner simulation + risk reframing)
 
 ---
 
@@ -163,4 +175,4 @@ This protocol is for self-mastery, not self-diagnosis. Use it to know your desig
 
 You can take the pdf files and add them to a new project. then add the single prompt file as the instruction prompt. Then you can start chats in that project to initiate a new self analysis.
 
-#PersonaMapping #OCEANModel #DSM5 #MBTI #SelfForensics #AIEnhancedSelfwork #EmotionalArchitecture
+#PersonaMapping #OCEANModel #DSM5 #MBTI #SelfForensics #AIEnhancedSelfwork #EmotionalArchitecture #Archetype

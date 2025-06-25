@@ -9,7 +9,8 @@ To evaluate how well a real or hypothetical partner aligns with my psychological
 
 "Using the full persona model built from my:
 
-- Yes/No Questionnaire  
+- Yes/No Questionnaire
+- Jungian Archetype Analysis
 - Narrative Event Journal  
 - OCEAN Trait Profile  
 - DSM-5 Behavioral and Attachment Analysis  
@@ -48,4 +49,4 @@ If no partner is named, describe my *ideal partner blueprint* based on my needs,
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "RISK REFRAMING". Prompt me to paste in the Prompt STEP SEVENB.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "RISK REFRAMING". Prompt me to paste in the Prompt STEP EIGHTB.
