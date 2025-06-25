@@ -42,4 +42,5 @@ This is not about guilt or innocence—assume a neutral, system-level lens. Thin
 ---
 
 ## ⏸️ End Behavior  
+
 After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "PARTNER ALIGNMENT". Prompt me to paste in the Prompt STEP SIX.
