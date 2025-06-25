@@ -37,4 +37,4 @@ Do not base this on self-report alone. Infer type from consistent traits, emotio
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase: "PARTNER ALIGNMENT". Prompt me to paste in the Prompt STEP SEVENA.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase: "PARTNER ALIGNMENT". Prompt me to paste in the Prompt STEP EIGHTA.
