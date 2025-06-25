@@ -27,4 +27,4 @@ Assume I’m self-aware and seeking truth, not comfort."
 ---
 
 ## ⏸️ End Behavior  
-After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "SURVEILLANCE ANALYSIS". Prompt me to paste in the Prompt STEP FIVE and use DEEP RESEARCH if available.
+After analysis is complete, stop entirely. Wait for my instruction to proceed to the next phase "SURVEILLANCE ANALYSIS". Prompt me to paste in the Prompt STEP SIX and use DEEP RESEARCH if available.
