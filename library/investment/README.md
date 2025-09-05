@@ -1,0 +1,1 @@
+Use as a research prompt for investments
