@@ -1,5 +1,5 @@
 
-Fin json prompt for generating diagrams of data.
+Fun json prompt for generating diagrams of data.
 
 like:
 
